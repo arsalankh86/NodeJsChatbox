@@ -1,0 +1,23 @@
+{
+  "name": "nodejschatbox",
+  "version": "1.0.0",
+  "description": "It is simple nodejs, expressjs chat application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsalankh86/NodeJsChatbox.git"
+  },
+  "author": "Arsalan Ahmed Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsalankh86/NodeJsChatbox/issues"
+  },
+  "homepage": "https://github.com/arsalankh86/NodeJsChatbox#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
